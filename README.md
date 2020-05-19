@@ -23,5 +23,6 @@ Predicted class : POX Actual class : CYT.
 .
 .
 .
+.
 Number of correctly classified instances : 238 Total number of instances : 445
 Accuracy : 0.5348314606741573
