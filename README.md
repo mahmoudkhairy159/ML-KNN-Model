@@ -52,4 +52,3 @@ For each value of `k` (from 1 to 9):
    \text{Accuracy} = \frac{\text{Correctly Classified Instances}}{\text{Total Instances}}
    \]
 
-**Example Output**:
